@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fachmi-todo-list",
+    "slug": "fachmi-todo-list",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fachmi-todo-list"
+}
